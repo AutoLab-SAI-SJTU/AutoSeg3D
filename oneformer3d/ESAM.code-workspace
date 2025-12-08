@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../data4/hswang/conda_envs/ESAM/lib/python3.8/site-packages/mmdet3d/.mim/configs/_base_/datasets"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"git.ignoreLimitWarning": true
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "include": [
+        // "FastSAM",
+        "oneformer3d",
+        "configs",
+        // "segment-anything",
+        // "SegmentAnything3D",
+        "tools",
+    ],
+    // "python.analysis.typeCheckingMode": "off",
+}
