@@ -40,6 +40,7 @@ SegmentAnything3D/
 output/
 results/
 work_dirs/
+work_dirs
 vis_demo/
 oneformer3d copy
 my_run_log.txt
