@@ -84,7 +84,7 @@ AutoSeg3D uses code from a few open source repositories. Without the efforts of 
 ```
 @inproceedings{wangonline,
   title={Online Segment Any 3D Thing as Instance Tracking},
-  author={Wang, Hanshi and Cai, Zijian and Gao, Jin and Zhang, Yiwei and Hu, Weiming and Wang, Ke and Zhang, Zhipeng and others},
+  author={Hanshi Wang, Zijian Cai, Jin Gao, Yiwei Zhang, Weiming Hu, Ke Wang, Zhipeng Zhang},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
 ```
