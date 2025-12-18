@@ -1,7 +1,7 @@
 <div align="center">
   <h1>AutoSeg3D [NeurIPS 2025]</h1>
   <h3>
-    <a href="https://arxiv.org/abs/2509.23931" target="_blank" rel="noopener">
+    <a href="https://www.arxiv.org/abs/2512.07599" target="_blank" rel="noopener">
       Online Segment Any 3D Thing as Instance Tracking
     </a>
   </h3>
@@ -10,6 +10,7 @@
   <a href="https://veritas12.github.io/" target="_blank" rel="noopener">Hanshi Wang</a>,
   <a href="" target="_blank" rel="noopener">Zijian Cai</a>,
   <a href="https://nlpr.ia.ac.cn/users/gaojin/index.htm" target="_blank" rel="noopener">Jin Gao</a>,
+      <a href="[https://nlpr.ia.ac.cn/users/gaojin/index.htm](https://github.com/Z1zyw)" target="_blank" rel="noopener">Yiwei Zhang</a>,
   <a href="https://people.ucas.ac.cn/~huweiming" target="_blank" rel="noopener">Weiming Hu</a>,
   <a href="" target="_blank" rel="noopener">Ke Wang</a>,
   <a href="https://zhipengzhang.cn/" target="_blank" rel="noopener">Zhipeng Zhang</a>
@@ -88,3 +89,4 @@ AutoSeg3D uses code from a few open source repositories. Without the efforts of 
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
 ```
+
